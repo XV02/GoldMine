@@ -1,0 +1,2 @@
+# GoldMine
+EAutomate to GoldMine
